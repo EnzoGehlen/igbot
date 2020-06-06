@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "delay": "^4.3.0",
+    "instagram-private-api": "^1.39.2",
+    "instagram-web-api": "^2.1.0",
+    "jimp": "^0.10.3"
+  }
+}
